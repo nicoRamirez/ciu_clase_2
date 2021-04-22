@@ -1,0 +1,25 @@
+.imperio{
+    background-color: red;
+}
+.rebeldes{
+    background-color: blue;
+}
+#tamanio_vader{
+    font-size: 70px;
+}
+#luke_italica{
+    font-style: italic;
+}
+.sold_bordes{
+    border-style: dotted ;
+
+}
+.letras{
+    letter-spacing:5px;
+}
+.apoyo_font{
+    text-align: center;
+}
+.naves{
+    text-transform: uppercase;
+}
